@@ -1,4 +1,5 @@
 # Calculates dividend / divisor
+# where both dividend and divisor are base 10
 # in the base of num_base
 # to after_decimal places
 # with digits separated by separator
